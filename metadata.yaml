@@ -1,0 +1,29 @@
+_repo: Elementary-Illustrations-of-the-Differential-and-Integral-Calculus_39041
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Morgan, Augustus
+    alias: Morgan, Augustus de
+    birthdate: 1806
+    deathdate: 1871
+    gutenberg_agent_id: '25678'
+    url: http://www.gutenberg.org/2009/agents/25678
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_De_Morgan
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2012-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Calculus'
+title: Elementary Illustrations of the Differential and Integral Calculus
+url: http://www.gutenberg.org/ebooks/39041
